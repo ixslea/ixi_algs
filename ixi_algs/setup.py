@@ -3,7 +3,7 @@ with open('README.md', 'r', encoding='utf-8') as fh:
     long_description = fh.read()
 
 setup(name='ixi_algs',
-      version='1.3',
+      version='1.4',
       description='ixi_algs',
       packages=['ixi_algs'],
       author_email='zxcbbtihs37docxh@yandex.ru',
