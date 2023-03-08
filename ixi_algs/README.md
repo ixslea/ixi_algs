@@ -1,1 +1,1 @@
-# Python module with some algs by ixslea
+# Python module with some algorithms by ixslea
